@@ -30,3 +30,6 @@ Write one when any of these is true[cite: 3]:
 2. **The user disclosed prior knowledge**[cite: 3].
 3. **A misconception was corrected**[cite: 3].
 4. **The mission shifted in response to learning**[cite: 3].
+
+## Review Policy
+If utilizing the `next-review-date` metadata, apply it strictly to **core concepts** or **durable misconceptions**. Do not set a review date for minor trivia or one-off facts. Use a standard interval (e.g., +1 day, +3 days, +7 days).

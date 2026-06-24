@@ -13,10 +13,11 @@
 **{Term}**:
 {One or two sentences defining what the term IS, not what it does or how to do it.}
 _Aliases to avoid (Optional)_: {Synonyms that muddy the waters}
-_Anti-pattern (Optional)_: {A common misconception or incorrect way this concept is applied in the wild. Add only if the misconception is common or dangerous.}
+_Anti-pattern (Optional)_: {A common misconception or incorrect way this concept is applied in the wild.}
 
 ## Rules
 - **Add a term only when the user understands it.**[cite: 1, 2]
 - **Be opinionated.** When several words exist for the same concept, pick the best one and list the rest as aliases to avoid[cite: 1, 2].
 - **Use the glossary's own terms inside definitions.**[cite: 1, 2]
 - **Revise as understanding deepens.** Update in place; do not leave stale entries[cite: 1, 2].
+- **Protect compression.** Only add `Anti-pattern` if the misconception is highly likely to recur. Do not let the glossary become a general mistake log.

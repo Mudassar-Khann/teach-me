@@ -18,7 +18,8 @@ The user has asked you to teach them something. This is a stateful request - the
 ## The Quality Gate
 Do not output a lesson unless it contains ALL of the following:
 - [ ] **Mission Alignment:** One specific objective tied directly to `MISSION.md`.
-- [ ] **Source Grounding:** Based strictly on a trusted source from `RESOURCES.md`.
+- [ ] **Single Bounded Win:** Short enough to review quickly, delivering exactly one tangible win to avoid overwhelming working memory.
+- [ ] **Source Grounding:** Grounded in one or more trusted sources listed in `RESOURCES.md`.
 - [ ] **Retrieval:** One active retrieval check (a question the user must answer).
 - [ ] **Transfer:** One transfer challenge (a small prompt to apply the knowledge to a new scenario).
 
