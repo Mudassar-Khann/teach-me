@@ -7,8 +7,6 @@
 ```md
 # {Topic} Resources
 
-<!-- NOTE: The following entries are illustrative examples. Replace them with actual resources relevant to your specific workspace and mission. -->
-
 ## Knowledge
 
 - [Book: _Introduction to Algorithms_ — Cormen, Leiserson, Rivest, Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)

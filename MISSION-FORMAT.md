@@ -1,6 +1,6 @@
 # MISSION.md Format
 
-`MISSION.md` lives at the workspace root[cite: 4]. It captures the *reason* the user is learning this topic[cite: 4]. Every teaching decision traces back to this document[cite: 4].
+`MISSION.md` lives at the workspace root. It captures the *reason* the user is learning this topic. Every teaching decision traces back to this document.
 
 ## Template
 
@@ -27,4 +27,4 @@
 ## Rules
 - **Concrete over abstract.** "Ship a full-stack React app" beats "learn web dev."
 - **Keep it short.** If milestones start growing into daily task lists, the mission is bloated. Stop planning and start executing.
-- **Push back on vagueness.** If the user cannot articulate why, interview them before writing anything[cite: 4].
+- **Push back on vagueness.** If the user cannot articulate why, interview them before writing anything.
